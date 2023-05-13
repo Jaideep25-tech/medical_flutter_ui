@@ -1,4 +1,4 @@
-<h2 align="center">MEDE BUDDY </h2>
+<h1 align="center">MEDE BUDDY </h1>
 
 <h3> Features </h3>
 <ul>
