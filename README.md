@@ -12,7 +12,7 @@
 </ul>
 
 
-<h3> UI Previw </h3>
+<h3> UI Preview </h3>
 <img width="300" height="500" alt="Screenshot 2023-05-01 at 10 37 16 AM" src="https://user-images.githubusercontent.com/79747022/235436184-f161f27a-d6e5-47d7-b9c6-74bd47c2c6df.png"> 
 <img width="300" height="500" alt="Screenshot 2023-05-01 at 10 39 24 AM" src="https://user-images.githubusercontent.com/79747022/235436201-8683b088-6bf1-49d6-b4cc-abe8f7fa2e7a.png">
 <img width="300" height="500" alt="Screenshot 2023-05-01 at 10 39 41 AM" src="https://user-images.githubusercontent.com/79747022/235436208-227fe208-5b66-427a-a405-7fdfa08b375b.png">
